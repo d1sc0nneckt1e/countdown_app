@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 20%;
+}
+
+.App-title{
+  font-size: 50px;
+}
+
+.clock{
+  display: flex;
+  justify-content: center;
+}
+
+.clock-timer{
+  margin: 10px;
+}
