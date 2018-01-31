@@ -1,6 +1,6 @@
 ## Countdown app
 
-A simple react countdown app exercise for learning purposes.
+A simple react countdown app for learning/exercise purposes.
 
 You can launch the app in development mode by running:
 
